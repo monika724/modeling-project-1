@@ -38,10 +38,5 @@ This document provides an in-depth guide to the PDF titled **"Upsampling and Dow
 - Apply mathematical models and techniques to signal processing projects.
 - Utilize practical examples for performance improvement in audio, image, and video applications.
 
-## References
-- Cited research papers and key textbooks on signal processing
-- Online tutorials and learning platforms for deeper understanding
 
-## Contact
-For additional information, reach out to the author or the Department of Signal Processing at your institution.
 
